@@ -2,6 +2,7 @@
 const chalk = require("chalk");
 const clear = require("clear");
 const figlet = require("figlet");
+
 //newsapi
 const NewsAPI = require("newsapi");
 const newsapi = new NewsAPI("aa8e3a704cb44fa2b99d0566d9e36c3d");
